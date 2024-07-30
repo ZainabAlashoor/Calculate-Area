@@ -1,1 +1,1 @@
-"# Calculate-Area" 
+"# Calculate-Area, first checkpoint in Codédex" 
